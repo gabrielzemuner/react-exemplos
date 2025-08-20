@@ -40,3 +40,19 @@
 .read-the-docs {
   color: #888;
 }
+
+.author-skeleton {
+  width: 60px;
+  background: #444;
+  border-radius: 8px;
+  padding: 2px 10px;
+}
+
+.author-image {
+  background: #444;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+}
